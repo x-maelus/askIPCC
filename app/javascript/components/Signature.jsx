@@ -6,6 +6,7 @@ function Signature() {
       <a
         href="https://twitter.com/maelus_"
         className="p-1 px-2 font-thin text-center text-white bg-black rounded-tl bg-opacity-30 hover:bg-white hover:text-black"
+        id="twitter"
       >
         by <b>@maelus_</b>
       </a>
