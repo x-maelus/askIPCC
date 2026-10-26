@@ -1,5 +1,5 @@
 GIT
-  remote: https://github.com/mael-ha/langchainrb.git
+  remote: https://github.com/x-maelus/langchainrb.git
   revision: 5618c7ed0cd383c3adbaedfa864c494918c11fb8
   branch: mha/add_stream_feature_to_openai
   specs:

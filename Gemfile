@@ -44,7 +44,7 @@ gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
-gem 'langchainrb', git: 'https://github.com/mael-ha/langchainrb.git', branch: 'mha/add_stream_feature_to_openai'
+gem 'langchainrb', git: 'https://github.com/x-maelus/langchainrb.git', branch: 'mha/add_stream_feature_to_openai'
 gem "pinecone"
 gem 'ruby-openai'
 gem "dotenv-rails"
